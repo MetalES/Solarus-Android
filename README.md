@@ -8,7 +8,7 @@ The PSP version got scrapped, I never was able to run Mystery of Solarus, it was
 There are some things I want to implement onto this.
 
 - Bluetooth controller support (playing on screen is cool, but playing with a plysical controller like an iPega like this (https://www.youtube.com/watch?v=8_DJy-VZutQ) is super cool)
-- Fullscreen (that means, widescreen)
+- Fullscreen (that means, widescreen, should take a look at how it's handled in Sam101's version)
 - Quest reading SHOULD be in internal memory, but users can define the default folder or launch a quest located elsewhere (SD card master race).
 - Do not take the "auto quest downloader" that was in Sam101's version, at least the Solarus launcher doesn't include it so I think that user might take quest all by themselves, when Solarus would allow this, this will be interesting, I have an idea for the GUI)
 
