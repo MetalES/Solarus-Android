@@ -2,6 +2,13 @@
 
 Since Sam101 ported the 1.2 (I believe) version of Solarus to Android, there were no updated versions (MoS supported the widescreen resolution, so this is early versions)
 The work should continue, both Solarus and Android were greatly improved over time (Solarus is now 1.5, Android's CPU are deca-core)
+But, problem is, there are tons of CPU in the Android realm, and I don't know if it is gonna be compatible with all of these (Sam101's verizon has problem with Snapdragons), so if it is confirmed, my work will be mostly focused on Snapdragons and Exynos first.
+
+List of known CPU brand:
+  - Mediatek
+  - Snapdragon
+  - Exynos (Samsung)
+  - Spreadtrum
 
 The PSP version got scrapped, I never was able to run Mystery of Solarus, it was slow as fuck (even with some tweaks / optimisations), the only way to make it possible on the PSP is to run it through emulators (PPSSPP) and that's useless, I'll maybe take a look on the Vita.
 
