@@ -1,9 +1,11 @@
 # Solarus for Android
 
-Since Sam101 ported the 1.2 (I believe) version of Solarus to Android, there were no updated versions (MoS supported the widescreen resolution, so this is very early versions)
+Since Sam101 ported the 1.2 (I believe) version of Solarus to Android, there were no updated versions (MoS supported the widescreen resolution, so this is early versions)
 The work should continue, both Solarus and Android were greatly improved over time (Solarus is now 1.5, Android's CPU are deca-core)
 
 The PSP version got scrapped, I never was able to run Mystery of Solarus, it was slow as fuck (even with some tweaks / optimisations), the only way to make it possible on the PSP is to run it through emulators (PPSSPP) and that's useless, I'll maybe take a look on the Vita.
+
+The Solarus Launcher (i.e: list of all games before starting a quest) might be ported using Embarcadero (https://www.embarcadero.com/fr/) a tool for easier android-styled menu creation
 
 There are some things I want to implement onto this.
 
